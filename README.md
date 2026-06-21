@@ -130,3 +130,7 @@ Created measures for:
 ## Conclusion
 
 This dashboard transforms raw customer data into meaningful business insights by highlighting customer demographics, purchasing behavior, product performance, and sales trends. It enables businesses to make informed decisions that can improve customer engagement, retention, and overall revenue growth.
+
+## Author
+Iram Salmani
+Data Analyst | Power BI Developer | Business Analyst
